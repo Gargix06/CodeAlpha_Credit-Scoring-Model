@@ -10,7 +10,7 @@
 
 ## Dataset
 
-German Credit Data
+Credit Risk Dataset
 
 ## Libraries
 
